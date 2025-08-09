@@ -1,13 +1,8 @@
-Perfeito 👍
-Agora que tenho o JavaScript real do seu projeto, consigo montar um **README.md mais técnico e completo**, explicando as funcionalidades e como o código funciona.
-Segue uma versão melhorada para você usar no GitHub:
 
----
-
-````markdown
 # 🧠 Smart Brain E-commerce
 
-<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/e64343fb-91f5-4b8c-aea2-f6eeec59a528" />
+<img width="1919" height="944" alt="e-commerce" src="https://github.com/user-attachments/assets/5ea5fd39-afa3-46de-a92f-29b5bbfb3de1" />
+
 
 
 ## 📌 Sobre o projeto
