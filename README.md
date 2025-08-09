@@ -7,7 +7,8 @@ Segue uma versão melhorada para você usar no GitHub:
 ````markdown
 # 🧠 Smart Brain E-commerce
 
-![Preview do Projeto](./2ba5cd54-b1f4-456d-a4b0-71bffdd2f92f.png)
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/e64343fb-91f5-4b8c-aea2-f6eeec59a528" />
+
 
 ## 📌 Sobre o projeto
 O **Smart Brain E-commerce** é um projeto de loja virtual responsiva, criado para simular uma experiência de compra moderna.  
@@ -78,12 +79,6 @@ cd SmartBrainE-commerce/e-commerce
 ### 3️⃣ Abrir no navegador
 
 Basta abrir o arquivo `index.html` no navegador para visualizar a aplicação.
-
----
-
-## 📸 Demonstração
-
-![Demonstração do E-commerce](./2ba5cd54-b1f4-456d-a4b0-71bffdd2f92f.png)
 
 ---
 
